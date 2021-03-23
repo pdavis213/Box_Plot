@@ -12,6 +12,7 @@
     background-color: green;
 }
 .side-nav {
+    display: inline-block;
     height: 300px;
     width: 18%;
     margin-right: 11px;
@@ -19,6 +20,7 @@
     background-color: blue;
 }
 .main {
+    display: inline-block;
     height: 70%;
     width: 77%;
     vertical-align: top;
